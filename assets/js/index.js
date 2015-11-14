@@ -19,6 +19,13 @@
             e.preventDefault();
             $("body").toggleClass("nav-opened nav-closed");
         });
+		
+		$("body").niceScroll({
+			cursorwidth:"10px",
+			cursorborderradius: "0px",
+			cursoropacitymin: 0.5,
+			horizrailenabled: false
+		});
 
     });
 
