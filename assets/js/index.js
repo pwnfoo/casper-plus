@@ -26,7 +26,7 @@
 			cursorborder: "none",
 			cursoropacitymin: 0.5,
 			zindex: 99999,
-			scrollspeed: 70,
+			scrollspeed: 90,
 			horizrailenabled: false
 		});
 
