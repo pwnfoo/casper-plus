@@ -24,6 +24,8 @@
 			cursorwidth:"10px",
 			cursorborderradius: "0px",
 			cursoropacitymin: 0.5,
+			zindex: 99999,
+			scrollspeed: 70,
 			horizrailenabled: false
 		});
 
