@@ -2064,6 +2064,7 @@ body:not(.post-template) .post-title {
 
 .blinking-cursor {
   font-weight: 100;
+  color: #ffffff;
   -webkit-animation: 1s blink step-end infinite;
   -moz-animation: 1s blink step-end infinite;
   -ms-animation: 1s blink step-end infinite;
@@ -2076,7 +2077,7 @@ body:not(.post-template) .post-title {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #ffffff;
   }
 }
 
@@ -2085,7 +2086,7 @@ body:not(.post-template) .post-title {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #ffffff;
   }
 }
 
@@ -2094,7 +2095,7 @@ body:not(.post-template) .post-title {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #ffffff;
   }
 }
 
@@ -2103,7 +2104,7 @@ body:not(.post-template) .post-title {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #ffffff;
   }
 }
 
@@ -2112,7 +2113,7 @@ body:not(.post-template) .post-title {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #ffffff;
   }
 }
 
