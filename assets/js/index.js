@@ -21,8 +21,9 @@
         });
 		
 		$("body").niceScroll({
-			cursorwidth:"10px",
+			cursorwidth:"5px",
 			cursorborderradius: "0px",
+			cursorborder: "none",
 			cursoropacitymin: 0.5,
 			zindex: 99999,
 			scrollspeed: 70,
