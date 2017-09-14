@@ -320,7 +320,7 @@ blockquote p {
 blockquote small {
     display: inline-block;
     margin: 0.8em 0 0.8em 1.5em;
-    font-size: 0.9em;
+    font-size: 0.8em;
     color: #CCC;
 }
 
@@ -354,7 +354,7 @@ pre {
     width: 100%;
     padding: 10px;
     font-family: Inconsolata, monospace, sans-serif;
-    font-size: 0.9em;
+    font-size: 0.8em;
     white-space: pre;
     overflow: auto;
     background: #F7FAFB;
@@ -376,7 +376,7 @@ kbd {
     border: #CCC 1px solid;
     color: #666;
     text-shadow: #FFF 0 1px 0;
-    font-size: 0.9em;
+    font-size: 0.8em;
     font-weight: 700;
     background: #F4F4F4;
     border-radius: 4px;
@@ -951,7 +951,7 @@ body:not(.post-template) .post-title {
 
 .post-excerpt p {
     margin: 0;
-    font-size: 0.9em;
+    font-size: 0.8em;
     line-height: 1.7em;
 }
 
