@@ -978,7 +978,12 @@ body:not(.post-template) .post-title {
 }
 
 .post-meta a {
-    color: #0c7fc5;
+    color:#09659c ;
+    text-decoration: none;
+}
+
+.meta-links {
+    color: #oc7fc5;
     text-decoration: none;
 }
 
