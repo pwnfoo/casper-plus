@@ -1,6 +1,6 @@
 # Casper Plus
 
-A theme derived from the default theme for [Ghost](http://github.com/tryghost/ghost/).
+A theme derived from the default theme for [Ghost](http://github.com/tryghost/ghost/). Originally made by [@niranjan94](https://github.com/niranjan94)
 
 
 ## Copyright & License
